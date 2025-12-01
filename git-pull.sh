@@ -9,3 +9,4 @@ git pull --rebase
 
 # fix permissions
 chown -R www-data:www-data /var/www/deveem-assets
+chmod +x git-pull.sh
