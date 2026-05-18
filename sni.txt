@@ -1,8 +1,6 @@
 developer.apple.com
 cloudflarestatus.com
 github.com
-teamdocs.su
-docscenter.su
 download.max.ru
 animego.me
 amd.com
