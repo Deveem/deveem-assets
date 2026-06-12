@@ -1,5 +1,13 @@
 {
     "aeza": {
+        "ports": [
+            443,
+            844,
+            2096,
+            2053,
+            2083,
+            2087
+        ], 
         "dest": [
             "download.max.ru",
             "botapi.max.ru",
