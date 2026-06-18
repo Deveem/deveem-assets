@@ -1,5 +1,6 @@
 {
     "aeza": {
+        "dest_rotation": false,
         "ports": [
             443,
             8443
