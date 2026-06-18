@@ -12,8 +12,7 @@
         "dest": [
             "botapi.max.ru",
             "amd.com",
-            "animego.me",
-            "yahoo.com"
+            "animego.me"
         ],
         "sni": [
             "max.ru",
