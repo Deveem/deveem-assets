@@ -3,7 +3,11 @@
         "dest_rotation": false,
         "ports": [
             443,
-            8443
+            8443,
+            2096,
+            2053,
+            2083,
+            2087
         ], 
         "dest": [
             "download.max.ru",
@@ -13,7 +17,6 @@
             "yahoo.com"
         ],
         "sni": [
-            "download.max.ru",
             "max.ru",
             "botapi.max.ru",
             "alfabank.ru",
