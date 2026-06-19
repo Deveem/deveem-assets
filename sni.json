@@ -14,7 +14,13 @@
             "botapi.max.ru",
             "amd.com",
             "animego.me",
-            "yahoo.com"
+            "yahoo.com",
+            "tile3.maps.2gis.com",
+            "cdn.jsdelivr.net",
+            "tile0.maps.2gis.com",
+            "tile4.maps.2gis.com",
+            "static.cloudflareinsights.com",
+            "api-maps.yandex.ru"
         ],
         "sni": [
             "max.ru",
