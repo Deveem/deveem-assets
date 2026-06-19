@@ -15,7 +15,8 @@
             "amd.com",
             "animego.me",
             "yahoo.com",
-            "github.com"
+            "github.com",
+            "cdn.jsdelivr.net"
         ],
         "sni": [
             "max.ru",
@@ -39,7 +40,11 @@
             "store.steampowered.com",
             "zgtwylnhh.cc.cd",
             "pingless.com",
-            "tradingview.com"
+            "tradingview.com",
+            "static.cloudflareinsights.com",
+            "tile0.maps.2gis.com",
+            "tile4.maps.2gis.com",
+            "tile3.maps.2gis.com"
         ]
     }
 }
