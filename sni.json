@@ -2,12 +2,7 @@
     "aeza": {
         "dest_rotation": true,
         "ports": [
-            443,
-            8443,
-            2096,
-            2053,
-            2083,
-            2087
+            443
         ], 
         "dest": [
             "download.max.ru", 
