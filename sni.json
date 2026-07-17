@@ -39,5 +39,24 @@
             "tradingview.com",
             "static.cloudflareinsights.com"
         ]
+    },
+    "aeza-ru": {
+        "dest_rotation": true,
+        "ports": [
+            443,
+            8443
+        ], 
+        "dest": [
+            "download.max.ru", 
+            "botapi.max.ru",
+            "wildberries.ru",
+            "teamdocs.su"
+        ],
+        "sni": [
+            "download.max.ru", 
+            "botapi.max.ru",
+            "wildberries.ru",
+            "teamdocs.su"
+        ]
     }
 }
