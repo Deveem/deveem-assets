@@ -40,7 +40,7 @@
             "static.cloudflareinsights.com"
         ]
     },
-    "aeza-ru": {
+    "aeza_ru": {
         "dest_rotation": true,
         "ports": [
             443,
