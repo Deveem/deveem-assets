@@ -6,19 +6,14 @@
             8443
         ], 
         "dest": [
-            "botapi.max.ru",
-            "download.max.ru",
             "amd.com",
             "github.com",
-            "cdn.jsdelivr.net"
+            "animego.me"
         ],
         "sni": [
             "max.ru",
             "botapi.max.ru",
             "alfabank.ru",
-            "img.yandex.ru",
-            "disk.yandex.ru",
-            "api-maps.yandex.ru",
             "animego.me",
             "amd.com",
             "yahoo.com",
@@ -40,11 +35,9 @@
             8443
         ], 
         "dest": [
-            "botapi.max.ru",
-            "download.max.ru",
             "amd.com",
             "github.com",
-            "cdn.jsdelivr.net"
+            "animego.me"
         ],
         "sni": [
             "max.ru",
