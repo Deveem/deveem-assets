@@ -7,9 +7,10 @@
         ], 
         "dest": [
             "botapi.max.ru",
-            "cdn.jsdelivr.net",
             "download.max.ru",
-            "amd.com"
+            "amd.com",
+            "github.com",
+            "cdn.jsdelivr.net"
         ],
         "sni": [
             "max.ru",
@@ -40,9 +41,10 @@
         ], 
         "dest": [
             "botapi.max.ru",
-            "cdn.jsdelivr.net",
             "download.max.ru",
-            "amd.com"
+            "amd.com",
+            "github.com",
+            "cdn.jsdelivr.net"
         ],
         "sni": [
             "max.ru",
