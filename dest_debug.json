@@ -38,7 +38,6 @@
                 "download.max.ru"
             ],
             "botapi.max.ru": [
-                "max.ru",
                 "botapi.max.ru",
                 "alfabank.ru",
                 "wildberries.ru",
@@ -168,8 +167,7 @@
     "aeza_ru": {
         "dest_rotation": true,
         "ports": [
-            443,
-            8443
+            443
         ],
         "download.max.ru": [
             "download.max.ru", 
