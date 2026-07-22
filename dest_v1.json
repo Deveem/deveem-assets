@@ -165,11 +165,27 @@
             ]
         }
     },
-    "aeza_ru": {
+    "aeza_us": {
         "dest_rotation": true,
         "ports": [
-            443,
-            8443
+            443
+        ],
+        "dests": {
+            "download.max.ru": [
+                "img.yandex.ru",
+                "disk.yandex.ru",
+                "api-maps.yandex.ru",
+                "yahoo.com",
+                "zgtwylnhh.cc.cd",
+                "pingless.com",
+                "static.cloudflareinsights.com"
+            ]
+        } 
+    },
+    "aeza_ru": {
+        "dest_rotation": false,
+        "ports": [
+            443
         ],
         "download.max.ru": [
             "download.max.ru", 
