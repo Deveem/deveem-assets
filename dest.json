@@ -2,15 +2,13 @@
     "default": {
         "dest_rotation": true,
         "ports": [
-            443,
-            8443
+            443
         ], 
         "dests": {
             "cdn.jsdelivr.net": [
                 "zgtwylnhh.cc.cd",
                 "pingless.com",
-                "static.cloudflareinsights.com",
-                "cdn.jsdelivr.net"
+                "static.cloudflareinsights.com"
             ],
             "max.ru": [
                 "max.ru",
@@ -69,7 +67,6 @@
             "download.max.ru": [
                 "max.ru",
                 "botapi.max.ru",
-                "download.max.ru",
                 "alfabank.ru",
                 "wildberries.ru",
                 "img.yandex.ru",
@@ -93,7 +90,6 @@
             "yahoo.com": [
                 "zgtwylnhh.cc.cd",
                 "pingless.com",
-                "yahoo.com",
                 "static.cloudflareinsights.com"
             ],
             "amd.com": [
@@ -106,7 +102,6 @@
                 "api-maps.yandex.ru",
                 "ozone.ru",
                 "animego.me",
-                "amd.com",
                 "yahoo.com",
                 "apple.com",
                 "sun6-21.userapi.com",
@@ -176,5 +171,36 @@
                 "download.max.ru"
             ]
         }
+    },
+    "aeza_ru": {
+        "dest_rotation": true,
+        "ports": [
+            443,
+            8443
+        ],
+        "download.max.ru": [
+            "download.max.ru", 
+            "botapi.max.ru",
+            "wildberries.ru",
+            "teamdocs.su"
+        ],
+        "botapi.max.ru": [
+            "download.max.ru", 
+            "botapi.max.ru",
+            "wildberries.ru",
+            "teamdocs.su"
+        ],
+        "wildberries.ru": [
+            "download.max.ru", 
+            "botapi.max.ru",
+            "wildberries.ru",
+            "teamdocs.su"
+        ],
+        "teamdocs.su": [
+            "download.max.ru", 
+            "botapi.max.ru",
+            "wildberries.ru",
+            "teamdocs.su"
+        ]
     }
 }
