@@ -11,8 +11,7 @@
             "amd.com",
             "animego.me",
             "yahoo.com",
-            "github.com",
-            "cdn.jsdelivr.net"
+            "github.com"
         ],
         "sni": [
             "max.ru",
