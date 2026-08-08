@@ -2,8 +2,7 @@
     "default": {
         "dest_rotation": true,
         "ports": [
-            443,
-            8443
+            443
         ], 
         "dest": [
             "download.max.ru", 
@@ -41,8 +40,7 @@
     "aeza": {
         "dest_rotation": true,
         "ports": [
-            443,
-            8443
+            443
         ], 
         "dest": [
             "download.max.ru", 
